@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CBLite-1.0.0-beta2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/exploded-bundles/ComCouchbaseCbliteCBLite100Beta2.aar/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/exploded-bundles/ComCouchbaseCbliteCBLite100Beta2.aar/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
