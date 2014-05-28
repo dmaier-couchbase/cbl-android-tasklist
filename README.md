@@ -21,4 +21,4 @@ The application covers the following subjects:
 - Replication Change Listener
 - Database Validation
 
-
+![alt tag](https://raw.github.com/dmaier-couchbase/cbl-android-tasklist/master/Screenshots/CouchbaseLiteAndroidDemoScreenshot.png)
