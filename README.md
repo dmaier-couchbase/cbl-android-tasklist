@@ -1,5 +1,5 @@
-cbl-android-tasklist
-====================
+Couchbase Lite - Android Tasklist Example
+=========================================
 
 A simple tasklist demo application how to use 'Couchbase Lite -  Android' together with the 'Sync Gateway'.
 
