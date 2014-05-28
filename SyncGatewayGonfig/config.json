@@ -1,0 +1,15 @@
+{
+   "interface":":4984",
+   "adminInterface":":4985",
+   "log":["REST"],
+   "databases":{
+      "sync_gateway":{
+         "server":"http://localhost:8091",
+         "bucket":"sync_gateway",
+         "sync":`function(doc) {channel(doc.channels);}`,
+         "users": {
+             "GUEST": {"disabled": false,"admin_channels": ["*"]}
+          }
+      }
+   }
+}
